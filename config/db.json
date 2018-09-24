@@ -1,0 +1,2470 @@
+{
+  "categoryTree": [
+    {
+        "id": 1,
+        "name": "Masculino",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/masculino",
+        "children": [
+            {
+                "id": 2,
+                "name": "Camisa",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/camisa",
+                "children": [],
+                "Title": "Camisa",
+                "MetaTagDescription": "Encontre aqui camisas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 3,
+                "name": "Camisa Polo",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/camisa-polo",
+                "children": [],
+                "Title": "Camisa Polo",
+                "MetaTagDescription": "Encontre aqui camisas polo da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 4,
+                "name": "Camisa Tecido",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/camisa-tecido",
+                "children": [],
+                "Title": "Camisa Tecido",
+                "MetaTagDescription": "Encontre aqui camisas tecido da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 5,
+                "name": "Regata",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/regata",
+                "children": [],
+                "Title": "Regata",
+                "MetaTagDescription": "Encontre aqui regatas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 6,
+                "name": "Casaco e Jaqueta",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/casaco-e-jaqueta",
+                "children": [],
+                "Title": "Casaco e Jaqueta",
+                "MetaTagDescription": "Encontre aqui casacos e jaquetas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 7,
+                "name": "Bermuda veludo",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/bermuda-veludo",
+                "children": [],
+                "Title": "Bermuda veludo",
+                "MetaTagDescription": "Encontre aqui bermudas de veludo da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 8,
+                "name": "Bermuda Água",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/bermuda-agua",
+                "children": [],
+                "Title": "Bermuda Água",
+                "MetaTagDescription": "Encontre aqui bermudas água da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 9,
+                "name": "Bermuda Jeans",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/bermuda-jeans",
+                "children": [],
+                "Title": "Bermuda Jeans",
+                "MetaTagDescription": "Encontre aqui bermudas jeans da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 11,
+                "name": "Bermuda Passeio",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/bermuda-passeio",
+                "children": [],
+                "Title": "Bermuda Passeio",
+                "MetaTagDescription": "Encontre aqui bermudas passeio da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 12,
+                "name": "Calça",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/calca",
+                "children": [],
+                "Title": "Calça",
+                "MetaTagDescription": "Encontre aqui calças da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 65,
+                "name": "Kits Masculino",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/masculino/kits-masculino",
+                "children": [],
+                "Title": "kits Masculino",
+                "MetaTagDescription": "Encontre aqui seu Kit da Cyclone pelo melhor preço!"
+            }
+        ],
+        "Title": "Masculino",
+        "MetaTagDescription": "Produtos da linha masculina Cyclone"
+    },
+    {
+        "id": 10,
+        "name": "Integração",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/integracao",
+        "children": [],
+        "Title": "Integração",
+        "MetaTagDescription": "Integração"
+    },
+    {
+        "id": 13,
+        "name": "Feminino",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/feminino",
+        "children": [
+            {
+                "id": 14,
+                "name": "Blusa",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/blusa",
+                "children": [],
+                "Title": "Blusa",
+                "MetaTagDescription": "Encontre aqui blusas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 15,
+                "name": "Short",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/short",
+                "children": [],
+                "Title": "Short",
+                "MetaTagDescription": "Encontre aqui shorts da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 16,
+                "name": "Saia",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/saia",
+                "children": [],
+                "Title": "Saia",
+                "MetaTagDescription": "Encontre aqui saias da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 17,
+                "name": "Vestido",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/vestido",
+                "children": [],
+                "Title": "Vestido",
+                "MetaTagDescription": "Encontre aqui vestidos da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 18,
+                "name": "Boné",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/bone",
+                "children": [],
+                "Title": "Boné",
+                "MetaTagDescription": "Encontre aqui bonés da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 19,
+                "name": "Calça/Macaquinho",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/calca-macaquinho",
+                "children": [],
+                "Title": "Calça/Macaquinho",
+                "MetaTagDescription": "Encontre aqui Calças e Macaquinhs da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 20,
+                "name": "Casaco e Jaqueta",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/casaco-e-jaqueta",
+                "children": [],
+                "Title": "Casaco e Jaqueta",
+                "MetaTagDescription": "Encontre aqui casacos e jaquetas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 63,
+                "name": "Tênis",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/tenis",
+                "children": [],
+                "Title": "Tênis",
+                "MetaTagDescription": "Encontre aqui tênis feminino da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 64,
+                "name": "Mochilas",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/feminino/mochilas",
+                "children": [],
+                "Title": "Mochila",
+                "MetaTagDescription": "Encontre aqui mochilas femininas da Cyclone pelo melhor preço!"
+            }
+        ],
+        "Title": "Feminino",
+        "MetaTagDescription": "Produtos da linha feminina Cyclone"
+    },
+    {
+        "id": 21,
+        "name": "Infantil",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/infantil",
+        "children": [
+            {
+                "id": 22,
+                "name": "Camiseta",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/infantil/camiseta",
+                "children": [],
+                "Title": "Camiseta",
+                "MetaTagDescription": "Encontre aqui camisetas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 23,
+                "name": "Regata",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/infantil/regata",
+                "children": [],
+                "Title": "Regata",
+                "MetaTagDescription": "Encontre aqui regatas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 24,
+                "name": "Bermuda Água",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/infantil/bermuda-agua",
+                "children": [],
+                "Title": "Bermuda Água",
+                "MetaTagDescription": "Encontre aqui bermudas água da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 25,
+                "name": "Bermuda veludo",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/infantil/bermuda-veludo",
+                "children": [],
+                "Title": "Bermuda veludo",
+                "MetaTagDescription": "Encontre aqui bermudas de veludo da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 26,
+                "name": "Bermuda Passeio",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/infantil/bermuda-passeio",
+                "children": [],
+                "Title": "Bermuda Passeio",
+                "MetaTagDescription": "Encontre aqui bermudas passeio da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 27,
+                "name": "Calça",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/infantil/calca",
+                "children": [],
+                "Title": "Calça",
+                "MetaTagDescription": "Encontre aqui calças da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 50,
+                "name": "Casacos",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/infantil/casacos",
+                "children": [],
+                "Title": "Casacos",
+                "MetaTagDescription": "Encontre aqui Casacos da Cyclone pelo melhor preço!"
+            }
+        ],
+        "Title": "Infantil",
+        "MetaTagDescription": "Produtos da linha infantilCyclone"
+    },
+    {
+        "id": 28,
+        "name": "Calçados",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/calcados",
+        "children": [
+            {
+                "id": 29,
+                "name": "Tênis",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/calcados/tenis",
+                "children": [],
+                "Title": "Tênis",
+                "MetaTagDescription": "Encontre aqui tênis da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 30,
+                "name": "Bota",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/calcados/bota",
+                "children": [],
+                "Title": "Bota",
+                "MetaTagDescription": "Encontre aqui botas da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 31,
+                "name": "Sandália",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/calcados/sandalia",
+                "children": [],
+                "Title": "Sandália",
+                "MetaTagDescription": "Encontre aqui sandálias da Cyclone pelo melhor preço!"
+            }
+        ],
+        "Title": "Calçados",
+        "MetaTagDescription": "Produtos da linha de calçados Cyclone"
+    },
+    {
+        "id": 32,
+        "name": "Diversos",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/diversos",
+        "children": [
+            {
+                "id": 60,
+                "name": "Skates",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/diversos/skates",
+                "children": [],
+                "Title": "Skates",
+                "MetaTagDescription": "Encontre aqui skates da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 61,
+                "name": "Patinete",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/diversos/patinete",
+                "children": [],
+                "Title": "Patinete",
+                "MetaTagDescription": "Encontre aqui patinetes da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 62,
+                "name": "Linha Praia",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/diversos/linha-praia",
+                "children": [],
+                "Title": "Linha Praia",
+                "MetaTagDescription": "Encontre aqui produtos da linha praia da Cyclone pelo melhor preço!"
+            }
+        ],
+        "Title": "Diversos",
+        "MetaTagDescription": "Equipamentos Cyclone!"
+    },
+    {
+        "id": 33,
+        "name": "Boné",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/bone",
+        "children": [
+            {
+                "id": 34,
+                "name": "Aba reta",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/bone/aba-reta",
+                "children": [],
+                "Title": "Aba reta",
+                "MetaTagDescription": "Encontre aqui bonés aba reta da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 35,
+                "name": "Microfibra",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/bone/microfibra",
+                "children": [],
+                "Title": "Microfibra",
+                "MetaTagDescription": "Encontre aqui bonés de microfibra da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 36,
+                "name": "Veludo",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/bone/veludo",
+                "children": [],
+                "Title": "Veludo",
+                "MetaTagDescription": "Encontre aqui bonés de veludo da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 37,
+                "name": "Aba Curva",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/bone/aba-curva",
+                "children": [],
+                "Title": "Aba Curva",
+                "MetaTagDescription": "Encontre aqui bonés Aba Curva da Cyclone pelo melhor preço!"
+            }
+        ],
+        "Title": "Bonés",
+        "MetaTagDescription": "Bonés Cyclone"
+    },
+    {
+        "id": 38,
+        "name": "Acessórios",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/acessorios",
+        "children": [
+            {
+                "id": 39,
+                "name": "Mochila/Bolsa/Estojo",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/mochila-bolsa-estojo",
+                "children": [],
+                "Title": "Mochila/Bolsa/Estojo",
+                "MetaTagDescription": "Mochilas, Bolsas e Estojos exclusivos da Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 40,
+                "name": "Meia",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/meia",
+                "children": [],
+                "Title": "Meia",
+                "MetaTagDescription": "Encontre aqui meias Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 41,
+                "name": "Óculos",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/oculos",
+                "children": [],
+                "Title": "Óculos",
+                "MetaTagDescription": "Encontre aqui óculos Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 42,
+                "name": "Gorro",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/gorro",
+                "children": [],
+                "Title": "Gorro",
+                "MetaTagDescription": "Encontre aqui gorros Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 46,
+                "name": "Carteiras",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/carteiras",
+                "children": [],
+                "Title": "Carteiras",
+                "MetaTagDescription": "Carteiras Cyclone"
+            },
+            {
+                "id": 49,
+                "name": "Chaveiros",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/chaveiros",
+                "children": [],
+                "Title": "Chaveiros",
+                "MetaTagDescription": "Encontre aqui chaveiros Cyclone pelo melhor preço!"
+            },
+            {
+                "id": 51,
+                "name": "Cintos",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/cintos",
+                "children": [],
+                "Title": "Cintos",
+                "MetaTagDescription": "Encontre os melhores cintos com os melhores preços!"
+            },
+            {
+                "id": 52,
+                "name": "Pochete",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/acessorios/pochete",
+                "children": [],
+                "Title": "Pochete",
+                "MetaTagDescription": "Encontre as melhores pochetes com os melhores preços!"
+            }
+        ],
+        "Title": "Acessórios",
+        "MetaTagDescription": "Acessórios Cyclone"
+    },
+    {
+        "id": 43,
+        "name": "Promoção",
+        "hasChildren": false,
+        "url": "https://cyclone.vtexcommercestable.com.br/promocao",
+        "children": [
+            {
+                "id": 53,
+                "name": "Masculino",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/promocao/masculino",
+                "children": [],
+                "Title": "Masculino",
+                "MetaTagDescription": "Encontre as melhores promoções da linha masculina da marca Cyclone em nossa loja oficial."
+            },
+            {
+                "id": 54,
+                "name": "Feminino",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/promocao/feminino",
+                "children": [],
+                "Title": "Feminino",
+                "MetaTagDescription": "Encontre as melhores promoções da linha feminina da marca Cyclone em nossa loja oficial."
+            },
+            {
+                "id": 55,
+                "name": "Infantil",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/promocao/infantil",
+                "children": [],
+                "Title": "Infantil",
+                "MetaTagDescription": "Encontre as melhores promoções da linha infantil da marca Cyclone em nossa loja oficial."
+            },
+            {
+                "id": 56,
+                "name": "Calçados",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/promocao/calcados",
+                "children": [],
+                "Title": "Calçados",
+                "MetaTagDescription": "Encontre as melhores promoções de calçados da marca Cyclone em nossa loja oficial."
+            },
+            {
+                "id": 57,
+                "name": "Boné",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/promocao/bone",
+                "children": [],
+                "Title": "Boné",
+                "MetaTagDescription": "Encontre as melhores promoções de bonés da marca Cyclone em nossa loja oficial."
+            },
+            {
+                "id": 58,
+                "name": "Acessórios",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/promocao/acessorios",
+                "children": [],
+                "Title": "Acessórios",
+                "MetaTagDescription": "Encontre as melhores promoções de acessórios da marca Cyclone em nossa loja oficial."
+            },
+            {
+                "id": 59,
+                "name": "Vale Presente",
+                "hasChildren": false,
+                "url": "https://cyclone.vtexcommercestable.com.br/promocao/vale-presente",
+                "children": [],
+                "Title": "Vale Presente",
+                "MetaTagDescription": "Compre aqui seu Vale Presente"
+            }
+        ],
+        "Title": "Promoção",
+        "MetaTagDescription": "Encontre as melhores promoções para os produtos da marca Cyclone em nossa loja oficial."
+    }
+],
+  "searchAutoComplete": {
+    "itemsReturned": [{
+        "items": [
+
+        ],
+        "thumb": "",
+        "thumbUrl": null,
+        "name": "bomba em Bombas",
+        "href": "https://cyclone.vtexcommercestable.com.br/bombas/bomba",
+        "criteria": "£bomba em Bombas¢/bombas/bomba"
+      },
+      {
+        "items": [{
+          "itemId": "77",
+          "name": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+          "nameComplete": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+          "imageUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155716-25-25/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000"
+        }],
+        "thumb": "\u003cimg src=\"https://cyclone.vteximg.com.br/arquivos/ids/155716-25-25/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000\" width=\"25\" height=\"25\" alt=\"bomba-auto-aspirante-periferica-1-2hp-bivolt\" id=\"\" /\u003e",
+        "thumbUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155716-25-25/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000",
+        "name": "bomba auto aspirante periférica bpa500 1/2hp intech machine",
+        "href": "https://cyclone.vtexcommercestable.com.br/bomba-auto-aspirante-periferica-bpa500-1-2hp-intech-machine/p",
+        "criteria": null
+      },
+      {
+        "items": [{
+            "itemId": "23",
+            "name": "Bomba Periférica BP500 Intech Machine - 110v",
+            "nameComplete": "Bomba Periférica BP500 Intech Machine - 110v",
+            "imageUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155453-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000"
+          },
+          {
+            "itemId": "24",
+            "name": "Bomba Periférica BP500 Intech Machine - 220v",
+            "nameComplete": "Bomba Periférica BP500 Intech Machine - 220v",
+            "imageUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155454-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095925230000"
+          }
+        ],
+        "thumb": "\u003cimg src=\"https://cyclone.vteximg.com.br/arquivos/ids/155453-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000\" width=\"25\" height=\"25\" alt=\"f4977dfb7c83397233803a73cae17ecd\" id=\"\" /\u003e",
+        "thumbUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155453-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000",
+        "name": "bomba periférica bp500 intech machine",
+        "href": "https://cyclone.vtexcommercestable.com.br/bomba-periferica-bp500-intech-machine/p",
+        "criteria": null
+      },
+      {
+        "items": [{
+            "itemId": "25",
+            "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+            "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+            "imageUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155455-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000"
+          },
+          {
+            "itemId": "26",
+            "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+            "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+            "imageUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155458-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000"
+          }
+        ],
+        "thumb": "\u003cimg src=\"https://cyclone.vteximg.com.br/arquivos/ids/155455-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"25\" height=\"25\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" /\u003e",
+        "thumbUrl": "https://cyclone.vteximg.com.br/arquivos/ids/155455-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+        "name": "bomba pressurizadora bfl120 intech machine",
+        "href": "https://cyclone.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+        "criteria": null
+      }
+    ]
+  },
+  "products": [{
+      "productId": "53",
+      "productName": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-auto-aspirante-periferica-bpa500-1-2hp-intech-machine",
+      "productReference": "7798106375339",
+      "categoryId": "88",
+      "productTitle": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+      "metaTagDescription": "<p>Caracteristicas e Vantagens:</p><p>Possui difusor embutido, que elimina a entrada de ar na bomba mantendo um trabalho permanente e sem interrupção. Utililiza selo mecânico, rotor em bronze e rolamento blindado.&nbsp;</p><p>Juntamente de um corpo e tampa feito em alumínio. A bomba é bivolt, possuí chave seletora de voltagem.</p><p><br></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Periférica/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/88/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-auto-aspirante-periferica-bpa500-1-2hp-intech-machine/p",
+      "Frequência": [
+        "60hz"
+      ],
+      "Sucção Máxima": [
+        "7 mca"
+      ],
+      "Vazão Máxima": [
+        "38L/Min"
+      ],
+      "Consumo": [
+        "0,37kw/h"
+      ],
+      "Recalque de Sucção": [
+        "1’'x1''"
+      ],
+      "Temperatura": [
+        "Máxima de 80ºC"
+      ],
+      "Velocidade de Rotação": [
+        "3.450rpm"
+      ],
+      "Modelo": [
+        "BPA500"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Alimentação": [
+        "Eletricidade"
+      ],
+      "Tensão": [
+        "Bivolt 110v e 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Consumo",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Alimentação",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Consumo",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Alimentação",
+        "Tensão"
+      ],
+      "description": "<p>Caracteristicas e Vantagens:</p><p>Possui difusor embutido, que elimina a entrada de ar na bomba mantendo um trabalho permanente e sem interrupção. Utililiza selo mecânico, rotor em bronze e rolamento blindado.&nbsp;</p><p>Juntamente de um corpo e tampa feito em alumínio. A bomba é bivolt, possuí chave seletora de voltagem.</p><p><br></p>",
+      "items": [{
+        "itemId": "77",
+        "name": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+        "nameComplete": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+        "complementName": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+        "ean": "7798106375339",
+        "referenceId": [{
+          "Key": "RefId",
+          "Value": "7798106375339"
+        }],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [{
+          "imageId": "155716",
+          "imageLabel": null,
+          "imageTag": "<img src=\"~/arquivos/ids/155716-#width#-#height#/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000\" width=\"#width#\" height=\"#height#\" alt=\"bomba-auto-aspirante-periferica-1-2hp-bivolt\" id=\"\" />",
+          "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155716/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000",
+          "imageText": "bomba-auto-aspirante-periferica-1-2hp-bivolt"
+        }],
+        "Voltagem": [
+          "Bivolt"
+        ],
+        "variations": [
+          "Voltagem"
+        ],
+        "sellers": [{
+          "sellerId": "1",
+          "sellerName": "cyclone",
+          "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=77&qty=1&seller=1&sc=1&price=22590&cv=f18bbb892563ba664ee1a765c6e9502e_&sc=1",
+          "sellerDefault": true,
+          "commertialOffer": {
+            "DeliverySlaSamplesPerRegion": {
+              "0": {
+                "DeliverySlaPerTypes": [],
+                "Region": null
+              }
+            },
+            "Installments": [{
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "American Express",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "American Express à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Visa",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "Visa à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Diners",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "Diners à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Mastercard",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "Mastercard à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Boleto Bancário",
+                "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                "Name": "Boleto Bancário à vista"
+              }
+            ],
+            "DiscountHighLight": [],
+            "GiftSkuIds": [],
+            "Teasers": [],
+            "BuyTogether": [],
+            "Price": 225.9,
+            "ListPrice": 225.9,
+            "PriceWithoutDiscount": 225.9,
+            "RewardValue": 0,
+            "PriceValidUntil": "4000-01-01T03:00:00Z",
+            "AvailableQuantity": 31,
+            "Tax": 0,
+            "DeliverySlaSamples": [{
+              "DeliverySlaPerTypes": [],
+              "Region": null
+            }],
+            "GetInfoErrorMessage": null,
+            "CacheVersionUsedToCallCheckout": "f18bbb892563ba664ee1a765c6e9502e_"
+          }
+        }]
+      }]
+    },
+    {
+      "productId": "20",
+      "productName": "Bomba Periférica BP500 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-periferica-bp500-intech-machine",
+      "productReference": "134606",
+      "categoryId": "88",
+      "productTitle": "Bomba Periférica BP500 Intech Machine",
+      "metaTagDescription": "<p>Ideal para transferência de água limpa e isenta de sólidos como: cisternas, rios e reservatórios, no abastecimento de residências, indústrias e no campo em pequenas irrigações.&nbsp;</p><p>Sucção máxima de até 8 metros de profundidade.</p><p>- Vazão máxima de até 2.352 litros / hora.</p><p>- Rolamento DDU</p><p>- Utiliza selo Mecânico</p><p>- Corpo e tampa em alumínio</p><p>- Usa tubulações de PVC</p><p>- Fácil instalação</p><p><br></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Periférica/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/88/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-periferica-bp500-intech-machine/p",
+      "Potência do Motor": [
+        "1/2 HP - 0,37 KW"
+      ],
+      "Sucção Máxima": [
+        "8 Metros"
+      ],
+      "Vazão Máxima": [
+        "33 Litros/Minutos"
+      ],
+      "Temperatura da Água": [
+        "40º C"
+      ],
+      "Velocidade de Rotação": [
+        "n0=3450/Minuto"
+      ],
+      "Modelo": [
+        "BP500"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Peso": [
+        "4,500kg"
+      ],
+      "Especificações": [
+        "Potência do Motor",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Temperatura da Água",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Tensão",
+        "Peso"
+      ],
+      "allSpecifications": [
+        "Potência do Motor",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Temperatura da Água",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Tensão",
+        "Peso"
+      ],
+      "description": "<p>Ideal para transferência de água limpa e isenta de sólidos como: cisternas, rios e reservatórios, no abastecimento de residências, indústrias e no campo em pequenas irrigações.&nbsp;</p><p>Sucção máxima de até 8 metros de profundidade.</p><p>- Vazão máxima de até 2.352 litros / hora.</p><p>- Rolamento DDU</p><p>- Utiliza selo Mecânico</p><p>- Corpo e tampa em alumínio</p><p>- Usa tubulações de PVC</p><p>- Fácil instalação</p><p><br></p>",
+      "items": [{
+          "itemId": "23",
+          "name": "Bomba Periférica BP500 Intech Machine - 110v",
+          "nameComplete": "Bomba Periférica BP500 Intech Machine - 110v",
+          "complementName": "Bomba Periférica BP500 Intech Machine",
+          "ean": "7798106353689",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7798106353689"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+            "imageId": "155453",
+            "imageLabel": null,
+            "imageTag": "<img src=\"~/arquivos/ids/155453-#width#-#height#/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000\" width=\"#width#\" height=\"#height#\" alt=\"f4977dfb7c83397233803a73cae17ecd\" id=\"\" />",
+            "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155453/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000",
+            "imageText": "f4977dfb7c83397233803a73cae17ecd"
+          }],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=23&qty=1&seller=1&sc=1&price=11590&cv=f4eee37c7c2fa56a12a4c70cdc3634ec_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [{
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Boleto Bancário",
+                  "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                  "Name": "Boleto Bancário à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 115.9,
+              "ListPrice": 127,
+              "PriceWithoutDiscount": 115.9,
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 30,
+              "Tax": 0,
+              "DeliverySlaSamples": [{
+                "DeliverySlaPerTypes": [],
+                "Region": null
+              }],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "f4eee37c7c2fa56a12a4c70cdc3634ec_"
+            }
+          }]
+        },
+        {
+          "itemId": "24",
+          "name": "Bomba Periférica BP500 Intech Machine - 220v",
+          "nameComplete": "Bomba Periférica BP500 Intech Machine - 220v",
+          "complementName": "Bomba Periférica BP500 Intech Machine",
+          "ean": "7768106335565",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7768106335565"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+            "imageId": "155454",
+            "imageLabel": null,
+            "imageTag": "<img src=\"~/arquivos/ids/155454-#width#-#height#/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095925230000\" width=\"#width#\" height=\"#height#\" alt=\"f4977dfb7c83397233803a73cae17ecd\" id=\"\" />",
+            "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155454/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095925230000",
+            "imageText": "f4977dfb7c83397233803a73cae17ecd"
+          }],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=24&qty=1&seller=1&sc=1&price=11590&cv=f4eee37c7c2fa56a12a4c70cdc3634ec_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [{
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Boleto Bancário",
+                  "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                  "Name": "Boleto Bancário à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 115.9,
+              "ListPrice": 127,
+              "PriceWithoutDiscount": 115.9,
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 31,
+              "Tax": 0,
+              "DeliverySlaSamples": [{
+                "DeliverySlaPerTypes": [],
+                "Region": null
+              }],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "f4eee37c7c2fa56a12a4c70cdc3634ec_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://cyclone.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://cyclone.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "cyclone",
+            "addToCartLink": "https://cyclone.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    }
+  ],
+  "product": {
+    "productId": 24,
+    "name": "Furadeira de Bancada 13mm 350w Gamma",
+    "salesChannel": "1",
+    "available": true,
+    "displayMode": "especificacao",
+    "dimensions": [
+      "Voltagem"
+    ],
+    "dimensionsInputType": {
+      "Voltagem": "Combo"
+    },
+    "dimensionsMap": {
+      "Voltagem": [
+        "110v",
+        "220v"
+      ]
+    },
+    "skus": [{
+        "sku": 29,
+        "skuname": "Furadeira de Bancada 13mm 350w Gamma - 110v",
+        "dimensions": {
+          "Voltagem": "110v"
+        },
+        "available": true,
+        "availablequantity": 99999,
+        "cacheVersionUsedToCallCheckout": "b9b0ac6f62ac1ef1717b3c4f276a435f_",
+        "listPriceFormated": "R$ 0,00",
+        "listPrice": 0,
+        "taxFormated": "R$ 0,00",
+        "taxAsInt": 0,
+        "bestPriceFormated": "R$ 459,00",
+        "bestPrice": 45900,
+        "installments": 1,
+        "installmentsValue": 45900,
+        "installmentsInsterestRate": 0,
+        "image": "http://cyclone.vteximg.com.br/arquivos/ids/155463-292-292/02ef618e7c56ceff0a295853e2939fc7.jpg?v=636688119297100000",
+        "sellerId": "1",
+        "seller": "cyclone",
+        "measures": {
+          "cubicweight": 1,
+          "height": 43,
+          "length": 23,
+          "weight": 11900,
+          "width": 34
+        },
+        "unitMultiplier": 1,
+        "rewardValue": 0
+      },
+      {
+        "sku": 30,
+        "skuname": "Furadeira de Bancada 13mm 350w Gamma - 220v",
+        "dimensions": {
+          "Voltagem": "220v"
+        },
+        "available": true,
+        "availablequantity": 99999,
+        "cacheVersionUsedToCallCheckout": "b9b0ac6f62ac1ef1717b3c4f276a435f_",
+        "listPriceFormated": "R$ 0,00",
+        "listPrice": 0,
+        "taxFormated": "R$ 0,00",
+        "taxAsInt": 0,
+        "bestPriceFormated": "R$ 459,00",
+        "bestPrice": 45900,
+        "installments": 1,
+        "installmentsValue": 45900,
+        "installmentsInsterestRate": 0,
+        "image": "http://cyclone.vteximg.com.br/arquivos/ids/155468-292-292/3a9d7a22f42db9b9cd7d0fb5ce3eb71c.jpg?v=636688120649930000",
+        "sellerId": "1",
+        "seller": "cyclone",
+        "measures": {
+          "cubicweight": 1,
+          "height": 43,
+          "length": 23,
+          "weight": 11900,
+          "width": 34
+        },
+        "unitMultiplier": 1,
+        "rewardValue": 0
+      }
+    ]
+  }
+}

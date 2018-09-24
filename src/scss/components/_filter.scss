@@ -1,0 +1,117 @@
+
+
+.filter {
+    .navigation-tabs {
+        display: none;
+    }
+
+    .menu-departamento {
+        display: none;
+    }
+
+    &__menu {
+        display: flex;
+    }
+
+    &__item {
+        padding: 20px 30px;
+        width: 150px;
+        text-align: center;
+        span {
+            font-size: 18px;
+            font-weight: 700;
+            color: $c-primary;
+        }
+        + .filter__item {
+            border-left: 1px solid #e4e4e4;
+        }
+
+        &:last-child {
+            border-right: 1px solid #e4e4e4;
+        }
+    }
+
+    &__content {
+        display: flex;
+        align-items: center;
+        position: relative;
+        justify-content: space-between;
+    }
+
+
+
+
+
+    &__options {
+        .filter__item:hover & {
+            display: flex;
+        }
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: -20px;
+        width: 100%;
+        right: -20px;
+        z-index: 10;
+        background-color: #fafafa;
+        border-top: 1px solid #e4e4e4;
+        border-bottom: 1px solid #e4e4e4;
+        width: 1300px;
+        padding: 20px;
+        flex-wrap: wrap;
+        label {
+            display: flex;
+            text-transform: uppercase;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: row-reverse;
+            margin-left: 10px;
+        
+            &.sr_selected .sr_box::after {
+                content: '';
+                display: block;
+                width: 20px;
+                height: 20px;
+                background-color: $c-primary;
+                border-radius: 50%;
+                transition: all .3s ease;
+            }  
+        }
+        input {
+            display: none;
+        }
+        
+        .sr_box {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            border: 1px solid #f0f0f0;
+            background-color: $c-white;
+            margin-right: 10px;
+            position: relative;
+            align-items: center;
+            justify-content: center;
+            transition: all .2s ease-in-out;
+                       
+        }
+        
+        .sr_box2 {
+            display: none;
+        }            
+        
+        
+    }
+
+    &__actions {
+        .button {
+            width: 150px;
+            margin: 0 10px;
+        }
+    }
+    &.is-active {
+        position: fixed;
+        z-index: 99;
+        bottom: 0;
+    }
+}

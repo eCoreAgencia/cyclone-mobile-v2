@@ -1,0 +1,24 @@
+
+<div class="product--shelf"><span class="product__id" data-product-id="$product.Id"></span>
+  <div class="product__header">
+    <div class="product__media"><a class="product__link" href="$product.Uri">$product.GetImageTag(2)</a></div>
+  </div>
+  <div class="product__info">
+    <h3 class="product__name"><a class="product__link" title="$product.HtmlEscapedName" href="$product.Uri">$product.HtmlEscapedName</a></h3>
+    <div class="product__price">
+#if ($product.IsInStock)
+  <div class="price">
+    <span class="price__list">$product.ListPrice no boleto </span>
+    #if ($product.NumbersOfInstallment > 1)
+      <span class="price__instament">
+        ${product.NumbersOfInstallment}X ${product.InstallmentValue} sem juros
+      </span>
+    #end
+  </div>
+#else
+  <span class="product__unavailable>Indisponível</span>"
+#end
+
+    </div>
+  </div>
+</div>

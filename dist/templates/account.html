@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="pt-br">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <!--+vtex-controller('<vtex:template id="eCore-Favicons" />')//include ../subtemplates/Favicons
+    --><vtex:metaTags /><vtex:template id="eCore-head" />
+    <link rel="stylesheet" href="https://cyclone.vteximg.com.br/arquivos/bootstrap.min.css"/>
+    <script src="https://cyclone.vteximg.com.br/arquivos/bootstrap.js"></script>
+  </head>
+  <body class="account"><vtex:template id="eCore-header" />
+    <main>
+      <section class="section__page section__account">
+        <div class="container">
+          <section class="section__page section__breadcrumb"><vtex.cmc:breadCrumb />
+            <div class="bread-crumb">
+              <ul>
+                <li><a href="/" rel="v:url" property="v:title">Home</a></li>
+                <li><a href="/ferramentas-eletricas" rel="v:url" property="v:title">Ferramentas Elétricas</a></li>
+                <li><a href="/ferramentas-eletricas/acessorios" rel="v:url" property="v:title">Acessórios</a></li>
+                <li class="last"><a href="/ferramentas-eletricas/acessorios/mandril" rel="v:url" property="v:title">Mandril</a></li>
+              </ul>
+            </div>
+          </section>
+          <h3 class="section__account__tlt">MINHA CONTA</h3>
+          <section class="section__account__box">
+            <h6 class="section__account__box__tlt">Olá Luiz Felipe</h6>
+            <article class="section__account__box__txt">Durante toda a sua navegação, você estará em um ambiente virtual 100% seguro, garantimos os padrões rígidos de segurança e confidencialidade a fim de proteger suas informações.</article>
+          </section>
+          <section class="account__boxes columns">
+            <div class="column is-4">
+              <div class="account__box"><vtex.cmc:accountUserProfile />
+              </div>
+            </div>
+            <div class="column is-4">
+              <div class="account__box"><vtex.cmc:accountAddress/>
+              </div>
+            </div>
+            <div class="column is-4">
+              <div class="account__box">
+                <div class="span6 address-display-block">
+                  <h4>Meus Pedidos</h4>
+                </div>
+                <div class="account__box__orders"><a class="account__box__orders__link" href="/account/orders">Ver meus Pedidos</a>
+                  <div class="account__box__orders__area">Clique no link acima para acompanhar seus pedidos realizados.</div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+    </main><vtex:template id="eCore-footer" /><vtex:template id="eCore-bottom" />
+  </body>
+</html>

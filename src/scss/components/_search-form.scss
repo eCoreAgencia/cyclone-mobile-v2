@@ -1,0 +1,16 @@
+.header {
+  &__search-form {
+    padding: 17px 0 0;
+  
+    .input,
+    .textarea {
+      border-radius: 0;
+    }
+  
+    .control {
+      .button {
+        border-radius: 0;
+      }
+    }
+  }
+}

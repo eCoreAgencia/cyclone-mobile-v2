@@ -1,0 +1,58 @@
+.banner {
+  &--full {
+    position: relative;
+    .slide-count-wrap {
+      position: absolute;
+      right: 40px;
+      bottom: 40px;
+      z-index: 10;
+      color: $c-white;
+      font-size: 29px;
+      .current, .total {
+        padding: 0 5px;
+      }
+      .current {
+        font-weight: 700;
+      }
+
+      .total {
+        opacity: 0.5;
+      }
+    }
+    .slick-dots {
+      position: absolute;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      padding: 40px 20px;
+      display: flex !important;
+      flex-direction: column;
+      justify-content: flex-end;
+      
+      li {
+        opacity: 0.5;
+        &.slick-active {
+          opacity: 1;
+        }
+      }
+
+      button {
+        border: none;
+        background-color: $c-white;
+        width: 5px;
+        height: 30px;
+        font-size: 0;
+        padding: 0;
+        border-radius: 2px;
+        margin: 2px 0;
+
+      }
+    }
+  }
+
+  .box-banner {
+    & > a {
+      display: block;
+    }
+  }
+}

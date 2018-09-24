@@ -1,0 +1,43 @@
+.home {
+	.section__title {
+		&__ico {
+			margin-right: 10px;
+			display: inline-block;
+			vertical-align: middle;
+		}
+
+		&__txt {
+			color: #000;
+			font-weight: 800;
+			font-size: 2.3rem;
+			display: inline-block;
+			text-transform: uppercase;
+			font-family: "United Sans Reg - Heavy";
+		}
+	}
+
+	.slick-prev {
+		transform: rotate(180deg);
+	}
+
+	.comprecategoria {
+		&__box {
+			padding: 15px 0;
+			background: url(/arquivos/textura-areas.png) repeat scroll 0 0 transparent;
+
+			&__list {
+				text-align: center;
+
+				&__item {
+					margin-right: 15px;
+					display: inline-block;
+					vertical-align: middle;
+
+					&:last-child {
+						margin-right: 0;
+					}
+				}
+			}
+		}
+	}
+}

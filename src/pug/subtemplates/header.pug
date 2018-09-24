@@ -1,0 +1,32 @@
+header.header
+  .header__info
+      .header__info.container.columns
+        a.header__info__logo__link(href="/")
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="115" viewBox="0 0 146 115"><defs><path id="qrsha" d="M410.43 115V0h145.15v115z"/><path id="qrshb" d="M458.46 70.01H452.48V76h6v-6z"/><path id="qrshc" d="M479.82 45v6h4.76V70h-5.08v6h15.98l.02.01h.02v-6H490.44V45.01l.02-.02h-10.62z"/><path id="qrshd" d="M461.8 45v6h4.76V70h-5.08v6h15.98l.02.01h.02v-6H472.42V45.01l.02-.02h-10.62z"/><path id="qrshe" d="M430.46 63s3.18-.96 6.4-1.06c1.33-.04 2.67.06 3.79.45.54.18 1.04.44 1.45.77.45.36.8.8 1.05 1.37.19.47.3 1.02.3 1.65l.01.09c0 .67-.09 1.24-.26 1.73a3.46 3.46 0 0 1-.98 1.51c-.37.32-.8.57-1.29.74-.67.25-1.45.37-2.27.4-1.52.03-3.2-.25-4.7-.62-2.49-.62-4.5-1.48-4.5-1.48l-.01.4.01 6.38A34.15 34.15 0 0 0 439.55 77c1.69 0 3.25-.3 4.62-.86a10.45 10.45 0 0 0 3.01-1.82 9.52 9.52 0 0 0 3.25-8.25c-.1-1.51-.45-2.87-1-4.04a8.63 8.63 0 0 0-2.45-3.07 9.35 9.35 0 0 0-3.6-1.71 12.6 12.6 0 0 0-3.56-.31l-.3.01c-2.88.2-3.23.2-3.26.2V51.9h12.92V46h-.02l-.02.02h-18.67v16.96z"/><path id="qrshf" d="M530.35 70.57c0 2.34-1.9 4.23-4.23 4.23h-18.15a4.23 4.23 0 0 1-4.23-4.23h-.01V52.44c0-2.33 1.9-4.23 4.24-4.23v-.01h18.15v.01c2.34 0 4.23 1.9 4.23 4.23v18.13zM501.52 77h31.04V46h-31.04z"/><path id="qrshg" d="M525.97 66.74c0 1.49-1.2 2.68-2.68 2.68h-11.5a2.68 2.68 0 0 1-2.67-2.68h-.02V55.27h.02c0-1.48 1.2-2.68 2.68-2.68v-.02h11.5v.02c1.47 0 2.67 1.2 2.67 2.68v11.47zM507.53 71h20.02V51h-20.02z"/><path id="qrshh" d="M535.74 46.32v-.45h.33c.22 0 .28.07.28.2s-.06.24-.31.25zm.24.28c.1 0 .18 0 .25.07.08.08.08.22.1.37l.06.32h.35c-.06-.16-.08-.35-.1-.51-.03-.2-.06-.3-.3-.35.23-.06.36-.22.36-.42 0-.4-.34-.48-.66-.48h-.57v1.76h.27v-.76zm1.33-.1a1.24 1.24 0 1 1-2.48.01 1.24 1.24 0 0 1 2.48 0zm-2.75 0a1.5 1.5 0 1 0 3 0 1.5 1.5 0 0 0-3 0z"/><path id="qrshi" d="M522.54 60.28h-4.28V56h-1.44v4.28h-4.29v1.44h4.3V66h1.43v-4.28h4.28z"/></defs><g><g transform="translate(-410)"><use fill="#211e14" xlink:href="#qrsha"/></g><g transform="translate(-410)"><g fill="#fff" font-family="UnitedSansReg-Heavy" font-size="12"><text dominant-baseline="text-before-edge" font-family="Helvetica, Arial, sans-serif" transform="translate(427 82)"><tspan letter-spacing="1.71"></tspan></text></g></g><g transform="translate(-410)"><g><use fill="#fff" xlink:href="#qrshb"/></g><g><use fill="#fff" xlink:href="#qrshc"/></g><g><use fill="#fff" xlink:href="#qrshd"/></g><g><use fill="#fff" xlink:href="#qrshe"/></g><g><use fill="#e75300" xlink:href="#qrshf"/></g><g><use fill="#e75300" xlink:href="#qrshg"/></g><g><use fill="#e75300" xlink:href="#qrshh"/></g><g><use fill="#e75300" xlink:href="#qrshi"/></g></g></g></svg>
+        .header__info__contact-bar.column.is-12
+          ul.header__info__contact-bar__list
+            li.header__info__contact-bar__list__item
+              span.header__info__txt Atendimento: (11)0000-0000
+            li.header__info__contact-bar__list__item
+              a.header__info__contact-bar__list__item__link(href="/institucional/nossas-lojas") Encontre uma loja
+            li.header__info__contact-bar__list__item
+              a.header__info__contact-bar__list__item__link(href="/account") Acessar sua Conta
+            li.header__info__contact-bar__list__item
+              a.header__info__contact-bar__list__item__link(href="/account/orders") Meus Pedidos
+  
+  .header__area.header__main
+    .container
+      .header__inner.columns
+          .header__area.header__menu.container.column.is-6
+            nav.navbar(role='navigation', aria-label='dropdown navigation')
+          
+          .header__search-form.column.is-2
+            .search-form#header-form
+              .field.has-addons
+                .control
+                  input.input(type='text', placeholder='Faça uma busca...')/
+                .control
+                  a.button
+                    span.icon-search
+
+          .header__minicart.js-minicart.is-3

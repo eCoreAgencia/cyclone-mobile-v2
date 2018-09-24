@@ -1,0 +1,142 @@
+.minicart {
+    position: relative;
+    &__overlay {
+        width: 100vw;
+        height: 100vh;
+        position: fixed;
+        background-color: rgba(0,0,0, 0.7);
+        top: 0;
+        left: 0;
+        z-index: 50;
+        display: none;
+        .active & {
+            display: block;
+        }
+    }
+
+    &__container {
+        position: fixed;
+        top: 0;
+        right: 0;
+        height: 100vh;
+        background-color: $c-white;
+        width: 358px;
+        z-index: 60;
+        display: none;
+        flex-direction: column;
+        .active & {
+            display: flex;
+        }
+    }
+
+    &__header {
+        width: 100%;
+    }
+
+    &__handle {
+        border: none;
+        box-shadow: 0;
+        padding-top: 15px;
+        background-color: transparent;
+        .minicart__header & {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            padding: 20px;
+            background-color: $c-blue;
+            svg {
+                width: 10px;
+            }
+            path {
+                fill: $c-white;
+            }
+        }
+    }
+
+    &__footer {
+        margin-top: auto;
+    }
+
+    &__title {
+        color: $c-white;
+        text-transform: uppercase;
+        font-family: $f-secondary;
+        @include font-size(20px);
+        margin: 0 auto;
+    }
+
+    &__checkout {
+        display: block;
+        width: 100%;
+        padding: 20px;
+        text-transform: uppercase;
+        color: $c-white;
+        background-color: #8CC44B;
+        text-align: center;
+        font-family: $f-secondary;
+    }
+
+    &__totals {
+        padding: 20px;
+        background-color: $c-blue;
+        text-transform: uppercase;
+        color: $c-white;
+        text-align: center;
+        &-text {
+            margin-right: 5px;
+        }
+        &-value {
+            color: $c-white;
+            
+        }
+    }
+
+    &-product {
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #dcdcdc;
+
+        &__image {
+            width: 95px;
+            height: 95px;
+            border: 1px solid $c-gray;
+            border-radius: 10px;
+            padding: 2px;
+            overflow: hidden;
+        }
+
+        &__info {
+            padding: 5px;
+            max-width: 168px;
+        }
+
+        &__name {
+            @include font-size(14px);
+            
+        }
+
+        &__remove {
+            background-color: transparent;
+            border: none;
+        }
+    }
+
+    &__count {
+        display: flex;
+        margin-top: 5px;
+        align-items: center;
+        
+        .icon-cart {
+            font-size: 30px;
+        }
+
+        &-value {
+            width: 30px;
+            padding: 5px;
+            color: #000;
+            font-size: 18px;
+            position: relative;
+        }
+    }
+}

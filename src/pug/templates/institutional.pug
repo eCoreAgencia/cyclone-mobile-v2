@@ -1,0 +1,43 @@
+extends ../layouts/default.pug
+
+block vars
+	- var pageTitle = 'Categoria'
+	- var bodyClass = 'institucional'
+
+block content
+	.container
+		section.section__page.section__breadcrumb
+			+vtex-controller('<vtex.cmc:breadCrumb />')
+			.bread-crumb
+				ul
+					li
+						a(href='/', rel='v:url', property='v:title') Home
+					li
+						a(href='/ferramentas-eletricas', rel='v:url', property='v:title') Ferramentas Elétricas
+					li
+						a(href='/ferramentas-eletricas/acessorios', rel='v:url', property='v:title') Acessórios
+					li.last
+						a(href='/ferramentas-eletricas/acessorios/mandril', rel='v:url', property='v:title') Mandril
+		section.section__page.section__institutional
+			.columns
+				aside.section__institutional__sidebar.column.is-3
+					h3.section__institutional__sidebar__title SOBRE A 5.11
+					ul.section__institutional__sidebar__list
+						li.section__institutional__sidebar__list__item
+							a.section__institutional__sidebar__list__item__link(href="/institucional/sobre-a-marca") Sobre a Marca
+						li.section__institutional__sidebar__list__item
+							a.section__institutional__sidebar__list__item__link(href="/institucional/encontre-uma-loja") Encontre uma Loja
+						li.section__institutional__sidebar__list__item
+							a.section__institutional__sidebar__list__item__link(href="/institucional/politica-de-privacidade") Política de Privacidade
+						li.section__institutional__sidebar__list__item
+							a.section__institutional__sidebar__list__item__link(href="/institutional/politica-de-pagamento") Política de Pagamento
+						li.section__institutional__sidebar__list__item
+							a.section__institutional__sidebar__list__item__link(href="/institutional/trabalhe-conosco") Trabalhe Conosco
+				.institutional__content.column
+					.banner.institutional__content__banner
+						+vtex-controller('<vtex:contentPlaceHolder id="Banner Institucional" />')
+					.institutional__content__text
+						+vtex-controller('<vtex:contentPlaceHolder id="Conteúdo Institucional" />')
+							h3.title Sobre a Marca
+							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula elementum mollis. Curabitur mollis, elit quis dignissim dignissim, erat justo convallis sem, non aliquam ipsum turpis id ligula. Maecenas a mattis lectus. Ut egestas tellus sed ex finibus eleifend. Nulla porttitor id odio vel interdum. Aenean tincidunt, ipsum ut rhoncus rutrum, ipsum leo pharetra nulla, eget cursus eros magna et enim. Aenean quis nisl sem. Phasellus felis magna, interdum ut eleifend eget, euismod id dui. Mauris dictum consectetur eleifend.
+							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula elementum mollis. Curabitur mollis, elit quis dignissim dignissim, erat justo convallis sem, non aliquam ipsum turpis id ligula. Maecenas a mattis lectus. Ut egestas tellus sed ex finibus eleifend. Nulla porttitor id odio vel interdum. Aenean tincidunt, ipsum ut rhoncus rutrum, ipsum leo pharetra nulla, eget cursus eros magna et enim. Aenean quis nisl sem. Phasellus felis magna, interdum ut eleifend eget, euismod id dui. Mauris dictum consectetur eleifend.

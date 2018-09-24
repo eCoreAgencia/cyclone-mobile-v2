@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="pt-br">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <!--+vtex-controller('<vtex:template id="eCore-Favicons" />')//include ../subtemplates/Favicons
+    --><vtex:metaTags /><vtex:template id="eCore-head" />
+  </head>
+  <body class="catalog category"><vtex:template id="eCore-header" />
+    <main>
+      <section class="section__page section__banner">
+        <div class="container">
+          <div class="banner banner__category"><vtex:contentPlaceHolder id="Banner Full" />
+          </div>
+        </div>
+      </section>
+      <section class="section__page section__filter container">
+        <div class="category__filter filter">
+          <div class="filter__inner">
+            <div class="filter__content">
+              <ul class="filter__menu">
+                <li class="filter__item"><span>Todos</span>
+                  <div class="filter__options">
+                    <label></label>
+                  </div>
+                </li>
+              </ul>
+              <div class="filter__actions">
+                <button class="button button--primary">Aplicar</button>
+              </div>
+            </div><vtex.cmc:searchNavigator />
+          </div>
+        </div>
+      </section>
+      <div class="container is-fluid">
+        <div class="section__inner">
+          <div class="orderBy">
+            <div class="select">
+              <select>
+                <option value="">Ordenar por</option>
+                <option value="OrderByPriceASC">Menor Preço</option>
+                <option value="OrderByPriceDESC">Maior Preço</option>
+                <option value="OrderByTopSaleDESC">Mais vendidos</option>
+                <option value="OrderByReviewRateDESC">Melhores avaliações</option>
+                <option value="OrderByNameASC">A - Z</option>
+                <option value="OrderByNameDESC">Z - A</option>
+                <option value="OrderByReleaseDateDESC">Data de lançamento</option>
+                <option value="OrderByBestDiscountDESC">Melhor Desconto</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section class="section__page section__shelf shelf">
+        <div class="container is-fluid"><vtex.cmc:searchResult layout="65c15678-2bbe-72e0-3aa6-0aa635db2f86" itemCount="12"  columnCount="4" />
+        </div>
+      </section>
+    </main><vtex:template id="eCore-footer" />
+    <script src="/arquivos/vtex-SmartResearch.js?v=0.0.1"></script><vtex:template id="eCore-bottom" />
+  </body>
+</html>
