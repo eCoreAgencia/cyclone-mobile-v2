@@ -20,24 +20,8 @@
 		transform: rotate(180deg);
 	}
 
-	.comprecategoria {
-		&__box {
-			padding: 15px 0;
-			background: url(/arquivos/textura-areas.png) repeat scroll 0 0 transparent;
-
-			&__list {
-				text-align: center;
-
-				&__item {
-					margin-right: 15px;
-					display: inline-block;
-					vertical-align: middle;
-
-					&:last-child {
-						margin-right: 0;
-					}
-				}
-			}
-		}
+	.banner--full .slick-slide img {
+		width: 100%;
+		max-width: 1000%;
 	}
 }

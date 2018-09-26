@@ -16,11 +16,11 @@ else
   - var title = 'Nome do produto'
   - var href = '/produto.html'
   - var dataProductId = Math.floor(Math.random() * 9999999)
-  - var listPrice = 'R$ 299,99'
+  - var listPrice = 'R$ 389,99'
   - var bestPrice = 'R$ 199,99'
-  - var flags = '<p class="flag destaque">novo</p>'
-  - var getImageTag = '<img src="http://via.placeholder.com/279x365" width="279" height="365" />'
-  - var getImageTag2 = '<img src="http://via.placeholder.com/279x365" width="279" height="365" />'
+  - var flags = '<p class="flag destaque">20%</p>'
+  - var getImageTag = '<img src="http://via.placeholder.com/135x180" width="135" height="180" />'
+  - var getImageTag2 = '<img src="http://via.placeholder.com/135x180" width="135" height="180" />'
   - var categoryName = '+ Iluminação'
   - var categoryHref = '/category.html'
 
@@ -31,7 +31,7 @@ else
       a.product__link(href= href)
         != getImageTag
     .product__actions
-      a.button.product__link(title= title, href= href) Compre Agora
+      a.button.product__link(title= title, href= href) Comprar
   .product__reviews
   .product__info
     h3.product__name
@@ -40,9 +40,9 @@ else
       if ( global.process.env.NODE_ENV === 'production' )
         != '\n#if ($product.IsInStock)'
         != '\n  <div class="price">'
-        != '\n    <span class="price__list">' + listPrice + '</span>'
+        != '\n    <span class="price__list">Por ' + listPrice + '</span>'
         != '\n    #if ($product.NumbersOfInstallment > 1)'
-        != '\n      <span class="price__instament">ou até'
+        != '\n      <span class="price__instament">ou'
         != '\n        ${product.NumbersOfInstallment}X de ${product.InstallmentValue}'
         != '\n      </span>'
         != '\n    #end'
@@ -52,5 +52,5 @@ else
         != '\n#end\n'
       else
         .price
-          span.price__list R$ 432,75
-          span.price__instament ou até 10x de R$ 43,28
+          span.price__list Por R$ 432,75
+          span.price__instament ou 10x de R$ 43,28
