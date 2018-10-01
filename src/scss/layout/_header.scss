@@ -3,10 +3,19 @@
   width: 100%;
   z-index: 99;
   position: fixed;
+  background-color: #fff;
+
+  .is-inline-block {
+    vertical-align: middle;
+  }
+
+  &__minicart {
+    padding: 0;
+    margin-top: -2px;
+  }
 
   &__area {
     padding: 0;
-    background: url(/arquivos/menu-textura.png) repeat-x scroll 0 0 #e75300;
   }
 
   &__info {
@@ -14,15 +23,60 @@
 
     &-menu {
       text-align: left;
+      padding: 0.75rem 0 0.75rem 0.75rem;
+      
       &__ico {
-        width: 30px;
-        height: 70px;
-        overflow: visible;
+        height: 25px;
+        margin-top: 5px;
+        margin-left: 5px;
       }
     }
 
     &__logo__link {
+      padding: 7px 0 0;
       text-align: center;
+    }
+  }
+
+  .account__box {
+    padding: 10px;
+    
+    &__item {
+      display: inline-block;
+      vertical-align: middle;
+
+      img {
+        max-width: 60px;
+      }
+
+      &:last-of-type {
+        img {
+          max-width: 90px;
+        }
+      }
+    }
+  }
+
+  .bottom__box {
+    padding: 20px;
+    background-color: #666;
+
+    h3 {
+      color: #fff;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+    }
+
+    li {
+      margin-right: 10px;
+      display: inline-block;
+      vertical-align: middle;
+      
+      &:last-child {
+        margin-right: 0;
+      }
     }
   }
 }

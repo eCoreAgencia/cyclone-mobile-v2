@@ -6,7 +6,7 @@ export default class vtexRequest {
 
 
 
-  async getCategoryTree(level) {
+  /*async getCategoryTree(level) {
     try {
       const http = new requestHttp();
       const response = await http.get(api.vtexCategoryTree(level));
@@ -60,5 +60,5 @@ export default class vtexRequest {
     } catch (err) {
       console.log(err);
     }
-  }
+  }*/
 }

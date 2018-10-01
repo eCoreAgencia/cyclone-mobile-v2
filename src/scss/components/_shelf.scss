@@ -1,5 +1,33 @@
+main {
+  .product--shelf .product__actions {
+    width: 100%;
+    display: block;
+    font-size: 19px;
+    position: inherit;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+  }
+  
+  .product__link.button {
+    width: 100%;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 800;
+    border-radius: 0;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #000;
+  }
+}
+
 .shelf {
   padding: 0 10px;
+
+  &__carousel--full {
+    padding: 0;
+  }
+
   ul {
 
     display: grid;
@@ -12,14 +40,6 @@
       display: flex;
       justify-content: space-between;
       flex-wrap: wrap;
-    }
-  }
-
-  li {
-    padding: 10px;
-    &.slick-slide {
-      max-width: 290px;
-      width: 100%;
     }
   }
 
@@ -36,79 +56,46 @@
 	}
 
   &__button {
+    top: 16px;
+    right: 5px;
+    width: 40px;
     border: none;
-    background-color: transparent;
-    .shelf__carousel--full & {
-      height: 60px;
-      top: 50%;
-      margin-top: -30px;
-      position: absolute;
-      z-index: 10;
-      outline: none;
-      svg {
-        width: 30px;
-      }
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #000;
 
-      &.slick-prev {
-        left: -30px;
-      }
+    svg {
+      width: 25px;
+      height: 25px;
+      margin-top: 5px;
+      overflow: visible;
 
-      &.slick-next {
-        right: -30px;
-      }
-    }
-
-    .shelf__brand & {
-      height: 60px;
-      top: 50%;
-      margin-top: -30px;
-      position: absolute;
-      z-index: 10;
-      outline: none;
-      svg {
-        width: 30px;
-      }
-
-      &.slick-prev {
-        left: -30px;
-      }
-
-      &.slick-next {
-        right: -30px;
+      path {
+        fill: #fff;
       }
     }
   }
 
-  &__brand {
-    .box-banner {
-      text-align: center;
-      max-width: 175px;
-      margin: 0 20px;
+  .shelf__carousel--full & {
+    height: 60px;
+    top: 50%;
+    margin-top: -30px;
+    position: absolute;
+    z-index: 10;
+    outline: none;
+    svg {
+      width: 30px;
     }
 
-    a {
-      display: block;
-      width: 100%;
-      text-align: center;
+    &.slick-prev {
+      left: -30px;
     }
 
-    img {
-      margin: 0 auto;
-    }
-  }
-
-  &--flip {
-    ul {
-      grid-template-columns: repeat(3, 350px);
-      grid-column-gap: 55px;
-      grid-row-gap: 55px;
-    }
-    li {
-     padding: 0;
+    &.slick-next {
+      right: -30px;
     }
   }
-
-
 }
 
 main {

@@ -14,16 +14,21 @@
         }
     }
 
+    &__content {
+        height: 380px;
+        overflow-y: scroll;
+    }
+
     &__container {
-        position: fixed;
         top: 0;
         right: 0;
-        height: 100vh;
-        background-color: $c-white;
-        width: 358px;
         z-index: 60;
+        width: 100%;
         display: none;
+        height: 100vh;
+        position: fixed;
         flex-direction: column;
+        background-color: $c-white;
         .active & {
             display: flex;
         }
@@ -42,7 +47,7 @@
             display: flex;
             align-items: center;
             padding: 20px;
-            background-color: $c-blue;
+            background-color: #000;
             svg {
                 width: 10px;
             }
@@ -77,7 +82,7 @@
 
     &__totals {
         padding: 20px;
-        background-color: $c-blue;
+        background-color: #000;
         text-transform: uppercase;
         color: $c-white;
         text-align: center;
@@ -131,10 +136,9 @@
         }
 
         &-value {
-            width: 30px;
-            padding: 5px;
+            width: 10px;
             color: #000;
-            font-size: 18px;
+            font-size: 14px;
             position: relative;
         }
     }

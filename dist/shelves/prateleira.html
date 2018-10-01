@@ -2,7 +2,6 @@
 <div class="product product--shelf"><span class="product__id" data-product-id="$product.Id"></span>
   <div class="product__header">
     <div class="product__media"><a class="product__link" href="$product.Uri">$product.GetImageTag(2)</a></div>
-    <div class="product__actions"><a class="button product__link" title="$product.HtmlEscapedName" href="$product.Uri">Compre Agora</a></div>
   </div>
   <div class="product__reviews"></div>
   <div class="product__info">
@@ -10,9 +9,9 @@
     <div class="product__price">
 #if ($product.IsInStock)
   <div class="price">
-    <span class="price__list">$product.ListPrice</span>
+    <span class="price__list">Por $product.ListPrice</span>
     #if ($product.NumbersOfInstallment > 1)
-      <span class="price__instament">ou até
+      <span class="price__instament">ou
         ${product.NumbersOfInstallment}X de ${product.InstallmentValue}
       </span>
     #end
@@ -23,4 +22,5 @@
 
     </div>
   </div>
+  <div class="product__actions"><a class="button product__link" title="$product.HtmlEscapedName" href="$product.Uri">Comprar</a></div>
 </div>

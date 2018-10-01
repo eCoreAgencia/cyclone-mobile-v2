@@ -1,13 +1,20 @@
 .header {
   &__search-form {
-    padding: 17px 0 0;
+    padding: 17px 17px 0;
   
     .input,
     .textarea {
       border-radius: 0;
     }
+
+    .input {
+      width: 100%;
+    }
   
     .control {
+      &.input-width {
+        width: 100%;
+      }
       .button {
         border-radius: 0;
       }

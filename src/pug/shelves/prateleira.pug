@@ -30,8 +30,6 @@ else
     .product__media
       a.product__link(href= href)
         != getImageTag
-    .product__actions
-      a.button.product__link(title= title, href= href) Comprar
   .product__reviews
   .product__info
     h3.product__name
@@ -54,3 +52,5 @@ else
         .price
           span.price__list Por R$ 432,75
           span.price__instament ou 10x de R$ 43,28
+  .product__actions
+    a.button.product__link(title= title, href= href) Comprar

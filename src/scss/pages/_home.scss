@@ -1,23 +1,50 @@
 .home {
-	.section__title {
-		&__ico {
-			margin-right: 10px;
-			display: inline-block;
-			vertical-align: middle;
+	.section {
+		&__page {
+			margin: 14px 0;
 		}
 
-		&__txt {
-			color: #000;
-			font-weight: 800;
-			font-size: 2.3rem;
-			display: inline-block;
-			text-transform: uppercase;
-			font-family: "United Sans Reg - Heavy";
+		&__hero {
+			padding-top: 100px;
+		}
+		
+		&__shelf {
+			ul {
+				margin-left: 5px;
+
+				li {
+    				margin: 0 17px;
+				}
+			}
+		}
+		
+		&__title {
+			padding: 10px;
+			position: relative;
+			margin-bottom: 12px;
+			
+			&__txt {
+				width: 70%;
+				color: #fff;
+				padding: 10px;
+				text-align: left;
+				font-weight: bold;
+				font-size: 1.4rem;
+				font-style: italic;
+				display: inline-block;
+				background-color: #000;
+				text-transform: uppercase;
+				font-family: 'Questrial', sans-serif;
+			}
+		}
+
+		&__button {
+			position: absolute;
 		}
 	}
 
 	.slick-prev {
-		transform: rotate(180deg);
+		right: 48px;
 	}
 
 	.banner--full .slick-slide img {

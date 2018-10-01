@@ -8,15 +8,16 @@
     
     &__top {
         overflow: hidden;
-        padding: 20px 20px 60px;
+        padding: 20px 20px 80px;
         background-color: #252525;
 
         &__box {
+            margin: 0;
             width: 100%;
             margin-bottom: 20px;
 
             &__tlt { 
-                font-size: 22px;
+                font-size: 16px;
                 color: #d4d4d4;
                 font-weight: bold;
                 text-transform: uppercase;
@@ -61,7 +62,7 @@
 
                 &__item {
                     &__link {
-                        font-size: 14px;
+                        font-size: 11px;
                         color: #d4d4d4;
                         text-transform: uppercase;
 
@@ -85,7 +86,7 @@
     }
 
     &__middle {
-        margin: 20px 0;
+        margin: 0;
 
         address {
             font-style: normal;
@@ -93,6 +94,7 @@
     }
 
     &__bottom {
+        padding: 0;
         text-align: center;
 
         &__list {

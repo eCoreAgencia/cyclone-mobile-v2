@@ -20,32 +20,41 @@
       }
     }
     .slick-dots {
+      left: 0;
+      width: 100%;
+      bottom: 10px;
       position: absolute;
-      right: 0;
-      top: 0;
-      bottom: 0;
-      padding: 40px 20px;
+      text-align: center;
       display: flex !important;
-      flex-direction: column;
-      justify-content: flex-end;
+      justify-content: center;
       
       li {
-        opacity: 0.5;
+        margin-right: 10px;
+        display: inline-block;
+        vertical-align: middle;
+
+        &:last-child {
+          margin-right: 0;
+        }
+
         &.slick-active {
           opacity: 1;
+          
+          button {
+            background-color: #DA291D;
+          }
         }
       }
 
       button {
-        border: none;
-        background-color: $c-white;
-        width: 5px;
-        height: 30px;
-        font-size: 0;
         padding: 0;
-        border-radius: 2px;
+        width: 20px;
+        height: 20px;
+        border: none;
+        font-size: 0;
         margin: 2px 0;
-
+        border-radius: 50%;
+        background-color: #000;
       }
     }
   }
