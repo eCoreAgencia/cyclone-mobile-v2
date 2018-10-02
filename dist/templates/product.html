@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="pt-br">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <!--+vtex-controller('<vtex:template id="eCore-Favicons" />')//include ../subtemplates/Favicons
+    --><vtex:metaTags /><vtex:template id="eCore-head" />
+  </head>
+  <body class="product"><vtex:template id="eCore-header" />
+    <main>
+      <div class="container">
+        <section class="section__page section__diff"></section>
+        <section class="section__page section__breadcrumb"><vtex.cmc:breadCrumb />
+        </section>
+        <section class="section__page section__product-header">
+          <div class="product__main columns">
+            <div class="product__media column is-12">
+              <div class="product__media-top"><vtex.cmc:ProductImage zoom="on"/>
+              </div>
+            </div>
+            <div class="product__info column is-12">
+              <div class="product__name"><vtex.cmc:productName />
+              </div>
+              <div class="product__price">
+                <div class="price"><vtex.cmc:skuPrice />
+                </div>
+              </div>
+              <div class="product__skus"><vtex.cmc:skuRichSelection changeImage="1" />
+              </div>
+              <div class="product__action">
+                <div class="product__action-bottom"><vtex.cmc:BuyButton/>
+                </div>
+              </div>
+              <div class="product__shipping">
+                <div class="product__shipping-text"><i class="icon-truck"></i><span>Entrega</span></div>
+                <div class="shipping">
+                  <div class="shipping__form">
+                    <div class="field has-addons">
+                      <div class="control is-expanded">
+                        <input class="input" type="text" placeholder="Digite seu CEP para calcular o prazo e valor"/>
+                      </div>
+                      <div class="control"><a class="button">ok</a></div>
+                    </div>
+                  </div><a class="shipping__link">Não sei meu CEP</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="section__page section__product-bottom">
+          <div class="product__description">
+            <h2 class="product__description-title">Informações:</h2>
+            <div class="product__description-text"><vtex.cmc:ProductDescription />
+            </div>
+          </div>
+        </section>
+        <section class="section__page section__shelf">
+          <h2 class="section__title">Quem Viu, Viu Também</h2>
+          <div class="shelf shelf__carousel--full"><vtex:contentPlaceHolder id="Quem-viu-viu-tambem" />
+          </div>
+        </section>
+      </div>
+    </main><vtex:template id="eCore-footer" />
+    <script src="/arquivos/ec-easyzoom.js"></script><vtex:template id="eCore-bottom" />
+  </body>
+</html>
