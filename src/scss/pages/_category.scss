@@ -1,0 +1,7 @@
+.product{
+    &--shelf{
+        display: grid;
+        grid-template-rows: auto auto auto 126px
+    }
+}
+

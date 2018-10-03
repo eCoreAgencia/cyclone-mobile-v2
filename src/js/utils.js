@@ -29,7 +29,7 @@ export const myLoad = (url, sourceContainer, targetContainer, replace) => {
   var xhr = new XMLHttpRequest();
   xhr.onerror = function() {
     throw "Request failed. HTTP code " + xhr.status;
-  };git stat
+  };
   xhr.onload = function() {
     if (!xhr.status || (xhr.status >= 400)) {
       throw "Request failed. HTTP code " + xhr.status;
