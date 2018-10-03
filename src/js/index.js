@@ -3,17 +3,17 @@ import '../scss/main.scss'
 
 
 import './components/minicart';
-import './components/loader';
-import './components/menu';
-import './components/makeMenu';
-import './components/searchForm';
+//import './components/loader';
+//import './components/menu';
+////import './components/makeMenu';
+//import './components/searchForm';
 //import './components/shelf';
-import './components/filter';
+//import './components/filter';
 //import './components/buyBuyCategory';
-import './components/product';
+i//mport './components/product';
 
 
-import './components/buy-by-category/main'
+//import './components/buy-by-category/main'
 
 
 import './pages/global';
