@@ -31,9 +31,8 @@ main {
   ul {
 
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr 1fr;
     width: 100%;
-    // grid-template-rows: repeat(2, 2);
     justify-content: center;
     align-items: center;
     grid-gap: 15px;

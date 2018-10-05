@@ -1,3 +1,10 @@
-div.prateleira.n4colunas ul li{
-    margin: 0 15px
+.prateleira {
+    ul{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 15px;
+    }
+    li{
+        margin: 0 !important;
+    }
 }
