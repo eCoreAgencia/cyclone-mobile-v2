@@ -3,8 +3,10 @@
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 15px;
+        margin: 15px 0;
     }
     li{
-        margin: 0 !important;
+       border: solid 1px #eee;
+       margin: 0 !important;
     }
 }
