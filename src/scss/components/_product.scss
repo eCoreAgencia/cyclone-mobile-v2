@@ -56,7 +56,7 @@
     }
   }
 
-  &-box{
+  &-box {
     padding: 0;
     border: solid 1px #eee;
     margin-bottom: 15px;
@@ -603,39 +603,63 @@
   }
 }
 
-.valor-por strong {
-  font-size: 2.2rem !important;
+
+/* ###### body.product-v2 ######*/
+
+.product {
+  &-box {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  &-info {
+    text-align: center;
+  }
+  &-view {
+    overflow: hidden;
+    margin-top: 30px;
+    display: grid;
+    grid-template-rows: 0.5fr 1fr;
+    grid-gap: 15px;
+  }
+  &Name {
+  }
+}
+
+.buy {
+  &-box {
+    padding: 0 !important;
+    margin: 0 !important;
+    display: grid;
+    grid-template-rows: 0.4fr 1fr;
+    grid-gap: 15px;
+  }
+  &-button-ref {
+    display: block;
+    text-align: center;
+    margin: 0;
+    border: none;
+    border-radius: 3px;
+    height: 2.4rem !important;
+    width: 100% !important;
+    background-color: #222222f7;
+    color: #dc3232c7;
+  }
 }
 
 #tabela-medidas-mobile {
-  border: solid 1px #eee !important;
-  padding: 1px;
-}
-
-.buy-button-ref {
-  display: block;
-  text-align: center;
-  margin: 0;
-  border: none;
-  border-radius: 3px;
-  height: 2.4rem !important;
-  width: 100% !important;
-  background-color: #222222f7;
-  color: #dc3232c7;
-}
-
-#tabela-medidas-mobile{
-    border: solid 1px #ccc ;
+  border: solid 1px #ccc;
 }
 
 .select:after {
-    display: none !important;
-  }
-
-  .product-info {
-      text-align: center ;
-  }
-
-.buy-box {
-    padding:0 !important;
+  display: none !important;
 }
+
+
+.valor-por strong {
+    font-size: 2.2rem !important;
+  }
+
+  #tabela-medidas-mobile {
+    border: solid 1px #eee !important;
+    padding: 1px;
+  }
