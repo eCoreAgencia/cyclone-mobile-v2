@@ -80,11 +80,13 @@
 				padding: 10px 0;
 				padding-left: 20px;
 				background-color: #fff;
-				border-bottom: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+                position: relative;
 
 				a {
 					color: #000;
-					text-transform: uppercase;
+                    text-transform: uppercase;
+                    display: flex;
 				}
 
 				&:last-child {
