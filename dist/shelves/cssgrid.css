@@ -1,10 +1,10 @@
 Html Webpack Plugin:
 <pre>
   Error: Child compilation failed:
-  Module build failed: Error: "extract-text-webpack-plugin" loader is used without the corresponding plu  gin, refer to https://github.com/webpack/extract-text-webpack-plugin for the usage example
+  Module build failed: Error: "extract-text-webpack-plugin" loader is used without the correspon  ding plugin, refer to https://github.com/webpack/extract-text-webpack-plugin for the usage exa  mple
   
   
-  - Error: "extract-text-webpack-plugin" loader is used without the corresponding plugin, refer to https    ://github.com/webpack/extract-text-webpack-plugin for the usage example
+  - Error: "extract-text-webpack-plugin" loader is used without the corresponding plugin, refer     to https://github.com/webpack/extract-text-webpack-plugin for the usage example
   
   - compiler.js:76 
     [cyclone-mobile-v2]/[html-webpack-plugin]/lib/compiler.js:76:16
