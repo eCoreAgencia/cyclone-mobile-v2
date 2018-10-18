@@ -4,12 +4,13 @@
       color: #e75300 !important;
     }
   }
-
   &__link {
     .product__media & {
       display: block;
     }
-
+    img{
+      width: auto !important;
+    }
     &.button {
       width: 100%;
       border: none;
@@ -602,7 +603,6 @@
     border-radius: 0;
   }
 }
-
 
 /* ###### body.product-v2 ######*/
 

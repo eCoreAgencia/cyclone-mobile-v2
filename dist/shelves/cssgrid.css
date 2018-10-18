@@ -1,13 +1,13 @@
 Html Webpack Plugin:
 <pre>
   Error: Child compilation failed:
-  Module build failed: Error: "extract-text-webpack-plugin" loader is used without the corresponding plugin, refer to https://github.com/w  ebpack/extract-text-webpack-plugin for the usage example
+  Module build failed: Error: "extract-text-webpack-plugin" load  er is used without the corresponding plugin, refer to https://  github.com/webpack/extract-text-webpack-plugin for the usage e  xample
   
   
-  - Error: "extract-text-webpack-plugin" loader is used without the corresponding plugin, refer to https://github.com/webpack/extract-text    -webpack-plugin for the usage example
+  - Error: "extract-text-webpack-plugin" loader is used without     the corresponding plugin, refer to https://github.com/webpac    k/extract-text-webpack-plugin for the usage example
   
   - compiler.js:76 
-    [cyclone-mobile-v2]/[html-webpack-plugin]/lib/compiler.js:76:16
+    [cyclone-mobile-v2]/[html-webpack-plugin]/lib/compiler.js:76    :16
   
   - Compiler.js:300 compile
     [cyclone-mobile-v2]/[webpack]/lib/Compiler.js:300:11
@@ -43,7 +43,7 @@ Html Webpack Plugin:
     [cyclone-mobile-v2]/[tapable]/lib/Tapable.js:202:11
   
   - index.js:244 Compilation.<anonymous>
-    [cyclone-mobile-v2]/[uglifyjs-webpack-plugin]/dist/index.js:244:6
+    [cyclone-mobile-v2]/[uglifyjs-webpack-plugin]/dist/index.js:    244:6
   
   - Tapable.js:206 Compilation.applyPluginsAsyncSeries
     [cyclone-mobile-v2]/[tapable]/lib/Tapable.js:206:13
