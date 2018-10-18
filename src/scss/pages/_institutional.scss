@@ -1,15 +1,37 @@
-.loja h2 {
-    font-size: 25px !important;
-    margin-bottom: 10px;
-    margin: 30px auto 9px !important;
-    font-weight:bold !important;
-}
-.std p{
-    font-size: 15px;
-}
+body.institucional{
+    h2{
+        font-size: 25px !important;
+        margin-bottom: 10px;
+        margin: 30px auto 9px !important;
+        font-weight:bold !important;
+        line-height: initial;
+    }
 
-.tlt-institucional{
-    font-size: 30px !important;
-    margin-top: 0 !important;
-    font-weight: 900 !important;
+    h3{
+        margin: 15px 0 !important;
+    }
+
+    .std p{
+        font-size: 15px;
+    }
+
+    .fale-conosco{
+        fieldset {
+            border: 1px solid #fff !important;
+        }
+    }
+
+    .tlt-institucional{
+        font-size: 30px !important;
+        margin-top: 0 !important;
+        font-weight: 900 !important;
+    }
+
+    .loja h2 {
+        font-size: 25px !important;
+        margin-bottom: 10px;
+        margin: 30px auto 9px !important;
+        font-weight:bold !important;
+        line-height: initial !important;
+    }
 }

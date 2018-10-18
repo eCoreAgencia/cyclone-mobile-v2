@@ -10,10 +10,8 @@
 
 		&__shelf {
 			ul {
-				margin-left: 5px;
-
 				li {
-    				margin: 0 17px;
+    				margin: 0 1px !important;
 				}
 			}
 		}
@@ -35,7 +33,19 @@
 				background-color: #000;
 				text-transform: uppercase;
 				font-family: 'Questrial', sans-serif;
-			}
+            }
+
+            .slick-prev {
+                svg{
+                    margin: 5px 1px 5px -4px
+                }
+            }
+
+            .slick-next {
+                svg{
+                    margin: 5px -4px 5px 1px
+                }
+            }
 		}
 
 		&__button {
