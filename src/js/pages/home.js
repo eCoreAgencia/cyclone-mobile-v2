@@ -79,10 +79,10 @@ $(document).ready(function(){
 
     $('.shelf__carousel--full ul').slick({
       arrows: true,
-      slideToShow: 2,
+      slidesToShow: 2,
       slidesToScroll: 1,
       infinite: true,
-      variableWidth: true,
+      // variableWidth: true,
       prevArrow: shelf__prev,
       nextArrow:shelf__next
     });
@@ -90,11 +90,11 @@ $(document).ready(function(){
 
     $('.shelf__brand').slick({
       arrows: true,
-      slideToShow: 4,
+      slidesToShow: 4,
       slidesToScroll: 1,
       infinite: true,
       centerMode: true,
-      variableWidth: true,
+      // variableWidth: true,
       prevArrow: shelf__prev,
       nextArrow:shelf__next
     });

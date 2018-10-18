@@ -1,0 +1,21 @@
+doctype html
+html(xmlns='http://www.w3.org/1999/xhtml', xmlns:vtex='http://www.vtex.com.br/2009/vtex-common', xmlns:vtex.cmc='http://www.vtex.com.br/2009/vtex-commerce', lang='en-us')
+  head
+    title Loja On-Line Cyclone | Busca não Encontrada
+  body#busca-vazia-page
+    vtex:metatags
+      meta(name='viewport', content='width=device-width, initial-scale=1.0')
+      meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+      vtex:template#eCore-head
+        vtex:template#eCore-header
+          main
+            .container
+              h3 Desculpe, sua busca não obteve resultados.
+              p
+                | Veja alguns dos nossos destaques abaixo, ou procure por outro produto em nossa loja. Obrigado.
+              .shelf
+                vtex:contentplaceholder#prateleira-destaques-busca
+          footer
+            vtex:template#eCore-footer
+              vtex:template#eCore-bottom
+          vtex:template#cyclone-V2-commonScripts
