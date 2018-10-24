@@ -1,12 +1,15 @@
-.prateleira {
-    ul{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 15px;
-        margin: 15px 0;
+.search-form--focus {
+    ul {
+      margin: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr;
+      grid-gap: 15px;
     }
-    li{
-       border: solid 1px #eee;
-       margin: 0 !important;
+    &.product__header {
+      border: unset !important;
     }
-}
+    overflow: scroll;
+    min-height: 100vw;
+    text-overflow: ellipsis;
+  }
