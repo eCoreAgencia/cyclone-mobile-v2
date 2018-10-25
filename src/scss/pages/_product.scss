@@ -56,18 +56,7 @@
   &Name {
     margin-bottom: 0 !important;
   }
-  &.prateleira{
-    ul{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 15px;
-        margin: 15px 0;
-    }
-    li{
-       border: solid 1px #eee;
-       margin: 0 !important;
-    }
-  }
+
 
   &-info {
     text-align: center;
@@ -711,3 +700,17 @@ body.product-v2{
         padding: 0;
     }
 }
+
+.prateleira{
+    padding:0;
+    ul{
+        display: grid;
+        grid-template-columns: 1fr 1fr !important;
+        grid-gap: 15px !important;
+        margin: 15px 0;
+    }
+    li{
+
+       margin: 0 !important;
+    }
+  }

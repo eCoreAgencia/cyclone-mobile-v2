@@ -30,12 +30,9 @@ main {
 
   ul {
 
-    display: grid;
-    grid-template-columns: 1fr 1fr;
     width: 100%;
     justify-content: center;
     align-items: center;
-    grid-gap: 15px;
     &.slick-slider {
       display: flex;
       justify-content: space-between;
