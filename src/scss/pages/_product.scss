@@ -27,6 +27,13 @@
     overflow: hidden;
     text-overflow: ellipsis;
   }
+
+  &-view {
+    overflow: hidden;
+    margin-top: 30px;
+    display: grid;
+    grid-template-rows: 1fr;
+  }
   &__actions {
     font-family: $f-base;
     .product--shelf & {
@@ -46,7 +53,9 @@
       position: static;
     }
   }
-
+  &Name {
+    margin-bottom: 0 !important;
+  }
   &.prateleira{
     ul{
         display: grid;
@@ -58,6 +67,10 @@
        border: solid 1px #eee;
        margin: 0 !important;
     }
+  }
+
+  &-info {
+    text-align: center;
   }
 
   &__action {
@@ -72,8 +85,7 @@
 
   &-box {
     padding: 0;
-    border: solid 1px #eee;
-    margin-bottom: 15px;
+    margin: 0;
   }
 
   &__info {
@@ -272,6 +284,7 @@
   }
 
   &--shelf {
+    border: solid 1px #eee;
     &-flip {
       perspective: 1000;
     }
@@ -619,31 +632,8 @@
 
 /* ###### body.product-v2 ######*/
 
-.product {
-  &-box {
-    margin: 0 !important;
-    padding: 0 !important;
-    border: none;
-  }
-  &-info {
-    text-align: center;
-  }
-  &-view {
-    overflow: hidden;
-    margin-top: 30px;
-    display: grid;
-    grid-template-rows: 1fr;
-  }
-  &Name {
-      margin-bottom: 0 !important;
-  }
-}
-
 .buy {
-  &-box {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
+
   &-button-ref {
     display: block;
     text-align: center;
@@ -655,10 +645,6 @@
     background-color: #222222f7;
     color: #dc3232c7;
   }
-}
-
-#image-main {
-//   border: solid 1px #ccc;
 }
 
 .select:after {
@@ -687,7 +673,7 @@
 }
 #include {
     border: solid 1px #ccc;
-    margin-bottom: 15px;
+    margin: 15px 0;
 }
 
 .cep-busca{
@@ -704,5 +690,24 @@
         display: flex !important;
         position: static !important;
         justify-content:center;
+    }
+}
+
+body.product-v2{
+    .product{
+        &-box{
+            padding: 0;
+        }
+    }
+    .shelf{
+        ul{
+            margin-top: 15px;
+        }
+    }
+    .prateleiras{
+        padding:0;
+    }
+    .buy-box{
+        padding: 0;
     }
 }

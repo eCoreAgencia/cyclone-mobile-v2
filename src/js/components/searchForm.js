@@ -26,15 +26,15 @@ export default class SearchForm {
       if (word.length >= 3) self.getSearchResult(word)
     })
 
-    input.on('blur', function () {
-      const list = $('.search-form__result-list');
-      $('.search-form').removeClass('search-form--focus');
-      setTimeout(function () {
-        list.hide();
-        list.empty();
-      }, 500)
+    // input.on('blur', function () {
+    //   const list = $('.search-form__result-list');
+    //   $('.search-form').removeClass('search-form--focus');
+    //   setTimeout(function () {
+    //     list.hide();
+    //     list.empty();
+    //   }, 500)
 
-    })
+    // })
 
   }
 
